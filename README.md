@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  🔗 <a href="https://ware-mustafa.github.io/PortfoyVize.github.io/" target="_blank">Canlı Siteyi Görüntüle</a>
+  🔗 <a href="https://ware-mustafa.github.io/MustafaPorfoy/" target="_blank">Canlı Siteyi Görüntüle</a>
 </p>
 
 ---
